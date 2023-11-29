@@ -1,5 +1,2 @@
 # MVP-starter
-
-Write a description of your project and the key features here.
-
-GOOD LUCK 😄
+To build an admin dashboard for managing products in an e-Commerce application. The admin should be able to view a list of existing products, update product details, and add new products to the database.

@@ -1,0 +1,30 @@
+.container {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 10%;
+}
+
+.container div {
+  margin-bottom: 50px;
+}
+
+iframe {
+  width: 100%;
+  height: 500px;
+}
+.imgHome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 100%; ;
+  background: linear-gradient(90deg, #ffffff 50%, #000000 50%)
+}
+.title{
+  text-align: center;
+}
+.search{
+  margin-left: 400px;
+}
